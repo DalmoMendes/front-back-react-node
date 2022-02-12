@@ -1,0 +1,50 @@
+.footer{
+    min-height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    justify-items: center;
+    border-bottom: 50px solid rgb(41, 40, 40);
+    background-color: rgb(207, 205, 205);
+}
+.footer_box{
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(36, 35, 35);
+}
+.footer_box ul li {
+    width: 200px;
+    margin: 5px 0px;
+    padding: 0px 10px;
+    list-style-type: none;
+}
+.footer_box ul li:hover{
+    background-color: rgb(255, 111, 0);
+    border-radius: 25px;
+    color: rgb(41, 40, 40);
+    cursor: pointer;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: rgb(27, 27, 27);
+}
+/* TELA RESPONSIVE  - MOBILE  */
+@media (max-width: 800px) {
+    .footer_box {
+        width: 45%;
+        height: auto; 
+    }
+    .footer_box ul h4{
+        font-size: 1.5em;
+    }
+    .footer_box ul li{
+        font-size: 1.2em;
+    }
+     
+  }
+  @media (max-width: 400px) {
+    .footer_box {
+        width: 90%; 
+    } 
+  }

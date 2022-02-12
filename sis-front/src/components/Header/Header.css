@@ -1,0 +1,25 @@
+.Logo{
+    padding: 4px;
+    text-align: center;
+    background-color: orange;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    width: 300px;
+    font-size: 1em;
+}
+.btn{
+    width: 120px;
+    padding: 10px 5px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: rgb(241, 67, 3);
+    border:none;
+    color: white; 
+    text-transform: uppercase; 
+    border-radius: 25px;
+}
+.btn:hover{
+    background-color: orange;
+    border-bottom: 5px solid rgb(41, 40, 40);
+    padding: 7px 5px;
+}
