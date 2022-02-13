@@ -8,6 +8,8 @@ Após clonar o projeto execute os seguintes comandos:
   <li>Obs:(Selecionar todas as dependências)</li>
 <p>2) npm start</p>
 
+<img src="https://github.com/DalmoMendes/front-back-react-node/blob/master/front.jpg">
+
 ## Back-End (Node.js)
 Uma api para enviar e consultas mensagens do falaconosco. Node.js, configurado na porta 5000.
 Após clonar o projeto execute os seguintes comandos:
