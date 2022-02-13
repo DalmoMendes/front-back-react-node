@@ -11,7 +11,7 @@ Após clonar o projeto execute os seguintes comandos:
 <img src="https://github.com/DalmoMendes/front-back-react-node/blob/master/front.jpg">
 
 ## Back-End (Node.js)
-Uma api para enviar e consultas mensagens do falaconosco. Node.js, configurado na porta 5000.
+Uma api para enviar e consultas mensagens do faleconosco. Node.js, configurado na porta 5000.
 Após clonar o projeto execute os seguintes comandos:
 <p>1) yarn upgrade-interactive --latest<p>
   <li>Obs: (Selecionar todas as dependências)</li>
